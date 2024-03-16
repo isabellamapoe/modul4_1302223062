@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-public class KodeBuah
+/*public class KodeBuah
 {
     public enum Buah
     {
@@ -44,5 +44,25 @@ public class KodeBuah
             Console.WriteLine("Apel, " + kode);
         }
     }
+}
+*/
 
+
+
+public class PosisiKarakterGame
+{
+    public enum State { JONGKOK, BERDIRI, TERNGKURAP, TERBANG };
+
+    public static string getPosisi(State posisi)
+    {
+        if (TombolS)
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+        }
+    }
 }
